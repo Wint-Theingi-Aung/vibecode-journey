@@ -1,9 +1,6 @@
-# vibecode-journey
-My Vibe Coding Journey — Learning, Building, Experimenting, and Growing with AI.
-:::writing{variant="document" id="73521"}
 # My Vibe Coding Journey
 
-### From Learning to Building with AI
+### Learning, Building, Experimenting, and Growing with AI
 
 Welcome to my Vibe Coding Journey!
 
@@ -30,4 +27,3 @@ This book shares my experiences, projects, challenges, lessons learned, and futu
 **Status:** Work in Progress
 
 **Last Updated:** November 2026
-:::
