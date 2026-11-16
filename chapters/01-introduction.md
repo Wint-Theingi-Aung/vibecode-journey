@@ -21,3 +21,7 @@ As soon as I heard about the program, I decided to join the tour. My goal was to
 ---
 
 *Learning, Building, Experimenting, and Growing with AI.*
+
+### Navigation
+
+[Next: The Beginning →](02-the-beginning.md)

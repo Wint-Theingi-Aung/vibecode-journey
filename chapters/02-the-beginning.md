@@ -11,3 +11,7 @@ After being selected, we were invited to join Telegram and Discord channels to c
 As the journey began, I had the opportunity to meet people from different technical backgrounds and professional fields. The mentor divided us into 20 teams, and I was assigned to **Team 7**, which consisted of 10 members. Fortunately, I found myself surrounded by friendly and supportive teammates, making the experience even more enjoyable.
 
 Perhaps, this journey will be the beginning of my return to the tech world — a chance to reconnect, learn new things, explore new technologies, and rediscover my passion for building software.
+
+### Navigation
+
+[← Previous: Introduction](01-introduction.md) | [Next: Learning AI Tools →](03-learning-ai-tools.md)
