@@ -2,7 +2,7 @@
 
 ## From Being Out of Touch to Reconnecting with the Tech World
 
-In my current role, I work mainly as a SysAdmin rather than focusing on software development and application deployment. I'm always busy with various tasks and responsibilities, so I haven't had much time to explore what's happening in the tech world. I've been out of touch with the latest technologies and trends for quite a while.
+In my current role, I work mainly as a SysAdmin rather than focusing on software development and application deployment. I'm always busy with various tasks and responsibilities, so I haven't had much time to explore what's happening in the tech world. However, I had occasionally experimented with AI-assisted coding and tried building a few things with AI.
 
 When I registered for the **Vibe Code Tour**, I honestly wasn't sure if I would be selected. The mentor initially announced that he would accept only 10 participants. However, as he mentioned later, more than 300 people applied through social media. Eventually, he selected around 200 participants and decided to share his knowledge through lectures and provide free API tokens to support our learning journey.
 
