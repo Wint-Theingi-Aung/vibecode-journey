@@ -1,4 +1,4 @@
-# My Vibe Coding Journey 🚀
+# My Vibe Coding Journey 
 
 ### From Learning to Building with AI
 
